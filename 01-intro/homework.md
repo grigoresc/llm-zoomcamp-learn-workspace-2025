@@ -17,3 +17,8 @@ Q5. Building a prompt
 
 1446
 (mine is 1621)
+
+Q6. Tokens
+
+320
+(mine is 354)
