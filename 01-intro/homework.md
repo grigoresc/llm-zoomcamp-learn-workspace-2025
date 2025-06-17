@@ -16,9 +16,7 @@ How do I copy files from a different folder into docker container’s working di
 Q5. Building a prompt
 
 1446
-(mine is 1621)
 
 Q6. Tokens
 
 320
-(mine is 354)
